@@ -1,6 +1,6 @@
 # Three-Tier DevSecOps Full-Stack Web Application Deployment on K8s using ArgoCD, Prometheus, Grafana, and Jenkins
 
-Three-tier DevSecOps project on kubernetes. It also covers implementing CI/CD with Jenkins, managing GitOps with ArgoCD, and monitoring with Prometheus and Grafana. 
+Three-tier DevSecOps project on kubernetes. It covers implementing CI/CD with Jenkins, managing GitOps with ArgoCD, deploying application on kubernetes cluster and monitoring with Prometheus and Grafana. 
 
 **Pipeline Automation:** Build, scan, and deploy Docker images using Jenkins, Trivy, and SonarQube.
 
